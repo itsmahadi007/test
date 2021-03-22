@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\itsma\Documents\Playing in Github\Simple-Django-Project\win_env"
+VIRTUAL_ENV="C:\Users\Mahadi\Documents\Playground\Simple-Django-Project\win_env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
